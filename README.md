@@ -1,4 +1,4 @@
-# Panther Swap Lib
+# Eve Swap Lib
 
 
 Solidity libraries that are shared across PantherSwap contracts. These libraries are focused on safety and gas efficiency.

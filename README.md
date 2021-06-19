@@ -1,7 +1,7 @@
 # Eve Swap Lib
 
 
-Solidity libraries that are shared across PantherSwap contracts. These libraries are focused on safety and gas efficiency.
+Solidity libraries that are shared across EveSwap contracts. These libraries are focused on safety and gas efficiency.
 
 ## Install
 
@@ -13,10 +13,10 @@ Run `yarn test` to execute the test suite.
 
 ## Usage
 
-Install this in another project via `yarn add @pantherswap/panther-swap-lib` 
+Install this in another project via `yarn add @eveswap-finance/eve-swap-lib` 
 
 Then import the contracts via:
 
 ```solidity
-import "@pantherswap/panther-swap-lib/contracts/access/Ownable.sol"; 
+import "@eveswap-finance/eve-swap-lib/contracts/access/Ownable.sol"; 
 ```
